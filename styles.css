@@ -75,6 +75,7 @@ header .container nav ul li a.button {
   justify-content: center;
   transition: all 0.3s ease-in;
   font-family: "Fraunces";
+  font-weight: 900;
 }
 
 header .container nav ul li a.button:hover {
